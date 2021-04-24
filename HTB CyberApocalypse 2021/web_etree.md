@@ -2,7 +2,7 @@
 This was an XPATH injection challenge that was really fun. 
 
 This challenge had a downloadable XML file that looked like this:
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <military>
